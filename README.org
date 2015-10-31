@@ -1,0 +1,10 @@
+#+TITLE:	My tmux dotfile
+#+AUTHOR:	João Foscarini
+#+EMAIL:	jfoscarini@gmail.com
+
+This is my tmux dotfile.
+
+I no longer use tmux, but some friends have really enjoyed this config and are currently
+using it on a daily basis. Maybe it's right for you as well, who knows?
+
+It's worth saying that it requires xclip to copy things in and out the environment.
